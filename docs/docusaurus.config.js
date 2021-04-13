@@ -2,7 +2,7 @@
 module.exports = {
   title: 'Nitrogen UI',
   tagline: 'Beautiful Front-End Components Kit using Tailwind CSS for React and Vue.',
-  url: 'https://NitrogenUI.github.io',
+  url: 'https://Redstoneguy129.github.io/NitrogenUI/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
