@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{84:function(s){s.exports=JSON.parse('{"allTagsPath":"/NitrogenUI/blog/tags","slug":"docusaurus","name":"docusaurus","count":1,"permalink":"/NitrogenUI/blog/tags/docusaurus"}')}}]);

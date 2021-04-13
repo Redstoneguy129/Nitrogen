@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{87:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hola","permalink":"/NitrogenUI/blog/hola"}]}')}}]);
